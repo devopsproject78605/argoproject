@@ -1,0 +1,3 @@
+replicaCount: 1
+image:
+  tag: stable-alpine3.21-perl
